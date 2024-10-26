@@ -16,4 +16,6 @@ if (guess == number)
 else   {
     printf("Wrong guess! Try again.");
        }
+    
+    return 0;
 }
